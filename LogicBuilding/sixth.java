@@ -14,7 +14,7 @@ public class sixth {
 
     }
 }
-//login   n-row+1 =5-1+1=5
+//loginc  n-row+1 =5-1+1=5
 // 5-2+1=4
 //5-3+1=3..
 output-
