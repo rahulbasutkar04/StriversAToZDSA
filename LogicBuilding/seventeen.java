@@ -39,9 +39,9 @@ public class seventeen{
 
 //output
 5
-        A
-        ABA
-        ABCBA
-        ABCDCBA
-        ABCDEDCBA
+    A    
+   ABA   
+  ABCBA  
+ ABCDCBA 
+ABCDEDCBA
 
