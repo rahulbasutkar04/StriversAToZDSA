@@ -1,4 +1,4 @@
-//lowerBound
+//UpperBound->Smallest Index such that arr[index]>target
 public class BinarySearch {
     static int  bs(int [] arr,int target)
     {
