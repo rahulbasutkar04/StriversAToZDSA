@@ -30,7 +30,7 @@ public class RotateByN {
     }
 }
 //output
-4	5	6	7	8	1	2	3
+5	6	7	8	1	2	3  4
   //Time complexity O(N+d)
 
   //optimal approach
@@ -54,7 +54,7 @@ public class RotateByN {
         d=d%n;
         reverse(arr,0,n-d-1);
         reverse(arr,n-d,n-1);
-        reverse(arr,1,n-1);
+        reverse(arr,0,n-1);
         for(int i=0;i<n;i++)
         {
             System.out.print(arr[i]+"\t");
@@ -63,6 +63,6 @@ public class RotateByN {
     }
 }
 //output
-4	5	6	7	1	2	3
+5	6	7	1	2	3  4
   //time complexity O(2N)
   
