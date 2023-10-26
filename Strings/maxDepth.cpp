@@ -2,7 +2,7 @@
 public static int maxDepth(String S){
 int current_max = 0; 
     int max = 0; 
-    int n = S.length(); 
+    int n = S.size(); 
  
     
     for (int i = 0; i < n; i++) 
